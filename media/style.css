@@ -14,4 +14,5 @@ div.pacman {
 div.pills {
 	background: #fff url(border-repeat.png) repeat-x;
 	height: 48px;
+    margin-left: 50px;
 }
