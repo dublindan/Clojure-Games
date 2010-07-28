@@ -1,3 +1,5 @@
 clojure-games.org
 
 Website dedicated to game programming using the Clojure programming language.
+
+Use this (gh-pages) for the website content and the master rbanch to store other Clojure game development related content (eg, Clojure based games).
