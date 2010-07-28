@@ -6,12 +6,12 @@ img.centered {
 }
 
 div.pacman {
-	background: #fff url(/media/border-left.png) no-repeat;
+	background: #fff url(border-left.png) no-repeat;
 	margin-left: 32px;
 	padding-left: 128px;
 	height: 48px;
 }
 div.pills {
-	background: #fff url(/media/border-repeat.png) repeat-x;
+	background: #fff url(border-repeat.png) repeat-x;
 	height: 48px;
 }
