@@ -1,5 +1,12 @@
+<<<<<<< HEAD:README
 clojure-games.org
 
 Website dedicated to game programming using the Clojure programming language.
 
 Use this (gh-pages) for the website content and the master rbanch to store other Clojure game development related content (eg, Clojure based games).
+=======
+http://clojure-games.org website content is in the 'gh-pages' branch.
+
+Use the master branch to store clojure games and other related data.
+
+>>>>>>> c3cbbba249a64aff8156a9830ca9c114e5ffb6f2:README
